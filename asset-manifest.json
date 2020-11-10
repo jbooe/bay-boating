@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/bay-boating/static/css/main.5600f6b0.chunk.css",
+    "main.js": "/bay-boating/static/js/main.fe4be8c8.chunk.js",
+    "main.js.map": "/bay-boating/static/js/main.fe4be8c8.chunk.js.map",
+    "runtime-main.js": "/bay-boating/static/js/runtime-main.6a9a3ba7.js",
+    "runtime-main.js.map": "/bay-boating/static/js/runtime-main.6a9a3ba7.js.map",
+    "static/css/2.f2b686a9.chunk.css": "/bay-boating/static/css/2.f2b686a9.chunk.css",
+    "static/js/2.04dbc965.chunk.js": "/bay-boating/static/js/2.04dbc965.chunk.js",
+    "static/js/2.04dbc965.chunk.js.map": "/bay-boating/static/js/2.04dbc965.chunk.js.map",
+    "index.html": "/bay-boating/index.html",
+    "static/css/2.f2b686a9.chunk.css.map": "/bay-boating/static/css/2.f2b686a9.chunk.css.map",
+    "static/css/main.5600f6b0.chunk.css.map": "/bay-boating/static/css/main.5600f6b0.chunk.css.map",
+    "static/js/2.04dbc965.chunk.js.LICENSE.txt": "/bay-boating/static/js/2.04dbc965.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.css": "/bay-boating/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a9a3ba7.js",
+    "static/css/2.f2b686a9.chunk.css",
+    "static/js/2.04dbc965.chunk.js",
+    "static/css/main.5600f6b0.chunk.css",
+    "static/js/main.fe4be8c8.chunk.js"
+  ]
+}
