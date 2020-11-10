@@ -15,13 +15,13 @@ export const DIRECTORYLISTS = [
         id: 2, 
         name: 'Local Boat Access Restaurants',
         description: 'Grab a bite to eat after a great day on the water',
-        image: 'assets/images/restaurant.jpg'
+        image: '/assets/images/restaurant.jpg'
     },
     {
         id: 3,
         name: 'The Local Wildlife',
         description: "You're gonna need a bigger boat",
-        image: 'assets/images/shark.jpg'
+        image: '/assets/images/shark.jpg'
     }
     
 ];
